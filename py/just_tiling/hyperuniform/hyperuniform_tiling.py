@@ -39,6 +39,8 @@ def hyperuniform_tiling(
     
     #catalogfile = './testdata/lightcone_ra_0_90_dec_0_90_rmagcut20.5_cluster_mask.fits'
     #outputdir = './testdata/'
+
+    print(f"BEGIN HYPERUNIFORM TILING")
     
     write_cluster_region_map = True
     write_gal_counts_map = True

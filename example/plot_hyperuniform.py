@@ -11,8 +11,8 @@ plot_tile_on_galaxy_map_flag = True
 plot_color_tile_flag = True
 plot_tile_circles_on_cluster_map_flag = True
 
-datadir = "./output/"
-plotdir = "./output/"
+datadir = "./"
+plotdir = "./"
 
 # plot galaxy count map
 if plot_gal_den_flag:
